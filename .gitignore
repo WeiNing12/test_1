@@ -1,2 +1,4 @@
 # Project exclude paths
-/out/
+package com.bamaoer.entity
+public class BookList{
+}
